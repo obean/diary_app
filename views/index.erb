@@ -1,0 +1,12 @@
+
+<ul>
+  <% @pages.each do |page| %>
+    <li>
+       <%= page.creation_date %>  <%= page.title %>
+       <form action="/entries/<%=page.title%>" method="post">
+       <input type="submit" value="Read Entry">
+       </form>
+      </a>
+    </li>
+  <% end %>
+</ul>

@@ -1,0 +1,51 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/nicolakeys/Makers/Projects/diary_database_app/spec/diary_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/nicolakeys/Makers/Projects/diary_database_app/spec/entry_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          3,
+          3,
+          3,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/nicolakeys/Makers/Projects/diary_database_app/spec/feature_tests/viewing_entry_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1600948539
+  }
+}
